@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/wjBtL78G0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matth\\source\\repos\\Assignment\\Presentation_ConsoleApp\\Presentation_ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

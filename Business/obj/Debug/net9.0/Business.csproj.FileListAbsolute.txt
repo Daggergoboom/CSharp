@@ -1,0 +1,11 @@
+C:\Users\matth\source\repos\Assignment\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\matth\source\repos\Assignment\Business\bin\Debug\net9.0\Business.dll
+C:\Users\matth\source\repos\Assignment\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\matth\source\repos\Assignment\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\source\repos\Assignment\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\matth\source\repos\Assignment\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\matth\source\repos\Assignment\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\Assignment\Business\obj\Debug\net9.0\Business.dll
+C:\Users\matth\source\repos\Assignment\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\matth\source\repos\Assignment\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\matth\source\repos\Assignment\Business\obj\Debug\net9.0\ref\Business.dll
